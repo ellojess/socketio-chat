@@ -34,8 +34,8 @@
 
 
 ### Built With
-* [NodeJS](https://www.javascript.com/)
-* [Socket.IO](https://www.npmjs.com/)
+* [NodeJS](https://nodejs.org/en/)
+* [Socket.IO](https://socket.io/)
 
 
 <!-- GETTING STARTED -->
